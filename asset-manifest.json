@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactTodo-Material-UI/static/css/main.20b02462.chunk.css",
+    "main.css": "/ReactTodo-Material-UI/static/css/main.2b7a6ef7.chunk.css",
     "main.js": "/ReactTodo-Material-UI/static/js/main.9d348dc4.chunk.js",
     "main.js.map": "/ReactTodo-Material-UI/static/js/main.9d348dc4.chunk.js.map",
     "runtime~main.js": "/ReactTodo-Material-UI/static/js/runtime~main.0830fb4f.js",
@@ -8,9 +8,9 @@
     "static/js/2.b7321446.chunk.js": "/ReactTodo-Material-UI/static/js/2.b7321446.chunk.js",
     "static/js/2.b7321446.chunk.js.map": "/ReactTodo-Material-UI/static/js/2.b7321446.chunk.js.map",
     "index.html": "/ReactTodo-Material-UI/index.html",
-    "precache-manifest.56b3a03b3d5630ef21c294696697fb04.js": "/ReactTodo-Material-UI/precache-manifest.56b3a03b3d5630ef21c294696697fb04.js",
+    "precache-manifest.7bab54612fc7ff6b0825c04ce22fc020.js": "/ReactTodo-Material-UI/precache-manifest.7bab54612fc7ff6b0825c04ce22fc020.js",
     "service-worker.js": "/ReactTodo-Material-UI/service-worker.js",
-    "static/css/main.20b02462.chunk.css.map": "/ReactTodo-Material-UI/static/css/main.20b02462.chunk.css.map",
+    "static/css/main.2b7a6ef7.chunk.css.map": "/ReactTodo-Material-UI/static/css/main.2b7a6ef7.chunk.css.map",
     "static/media/bg-image.png": "/ReactTodo-Material-UI/static/media/bg-image.f8057315.png"
   }
 }
