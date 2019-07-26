@@ -1,0 +1,15 @@
+.TodoApp {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    background-color: #fafafa;
+}
+
+.AppBar {
+    height: 64px;
+    background: linear-gradient(45deg, #3699D4 30%, #8C7BB7 90%) !important;
+}
+
+.AppGrid {
+    margin-top: 1rem
+}
